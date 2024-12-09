@@ -1,0 +1,66 @@
+Privacy Policy for "Рандомайзер бот"
+The following Privacy Policy applies to the "Рандомайзер бот" (hereinafter referred to as "Third-Party Service") available on the Telegram platform. By using this bot, you accept the terms outlined in this Policy.
+
+1. Terms and Definitions
+1.1. Telegram – Telegram Messenger Inc (also "we").
+1.2. Platform – The Telegram Bot Platform.
+1.3. Developer – The person or legal entity operating and maintaining the "Рандомайзер бот."
+1.4. Third-Party Service – The bot "Рандомайзер бот," made available to users on the Platform.
+1.5. User – The person accessing the Third-Party Service via their account on the Platform (also "you").
+1.6. Policy – This document governing the relationship between Third-Party Service and User.
+
+2. General Provisions
+2.1. This Policy applies solely to the "Рандомайзер бот" and regulates the collection, storage, usage, and protection of information provided by Users.
+
+2.2. The Developer adheres to all privacy guidelines set forth by Telegram, including the Telegram Bot Terms.
+
+2.3. The Developer reserves the right to modify this Policy at any time, and it is the User's responsibility to review such changes. Continued use of the Third-Party Service implies acceptance of these changes.
+
+2.4. If you do not agree with the terms of this Policy, you should immediately cease using the Third-Party Service.
+
+3. Collection of Personal Data
+3.1. Third-Party Service collects the following types of data:
+
+Technical data: Information about your device and network (e.g., User ID, Username, User first and last name).
+Time zone: Information to enable proper functioning of time-related features.
+3.2. Third-Party Service does not collect personal identifiers like name, email, or phone number unless provided voluntarily by the User.
+
+4. Processing of Personal Data
+4.1. The collected data is used solely for the following purposes:
+
+Ensuring the correct functionality of the bot's features.
+Improving the User experience by adapting to local time zones.
+4.2. The Developer does not monetize User data or use it for purposes beyond the functioning of the Third-Party Service.
+
+4.3. No personal data is transferred to or shared with third parties, unless explicitly required by law.
+
+5. Data Protection and Storage
+5.1. Data collected by the Third-Party Service is stored indefinitely on servers located in the Russian Federation, in the city of St. Petersburg.
+
+5.2. Robust security measures are implemented to ensure the integrity and confidentiality of the data.
+
+5.3. The Developer is committed to complying with applicable data protection laws.
+
+6. Rights and Obligations
+6.1. Users have the right to:
+
+Request a copy of their data collected by the Third-Party Service.
+Request the deletion of their data by contacting the Developer through Telegram at @ZXCmamochka.
+6.2. Users are responsible for providing accurate and up-to-date information when submitting data requests.
+
+6.3. The Developer shall:
+
+Process and respond to requests within 30 days.
+Ensure that no personal data is retained beyond the requirements of this Policy or applicable law.
+7. Disclaimers
+7.1. Third-Party Service operates independently and is neither endorsed nor affiliated with Telegram.
+
+7.2. The Developer is not responsible for inaccuracies or omissions in the information provided by Users.
+
+8. Changes to this Privacy Policy
+The Developer reserves the right to update this Policy. Users will be notified of significant changes, and such changes will be posted within the Third-Party Service interface. Continued use of the bot implies acceptance of any changes to this Policy.
+
+9. Contact Information
+For any questions or requests regarding this Policy, please contact the Developer via Telegram at @ZXCmamochka.
+
+This Privacy Policy is effective as of 9.12.2024. Thank you for using "Рандомайзер бот"!
